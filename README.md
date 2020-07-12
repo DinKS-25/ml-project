@@ -1,2 +1,2 @@
 # heart disease analysis and prediction
-machine learning projects
+you need to download the zip file and run the python file you will get a port activated then u can provide your parameter for the prediction purpose
